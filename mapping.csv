@@ -1,0 +1,11 @@
+SourceField,TargetSegment,TargetField,Description
+PatientName,PID,5,Patient Name
+DateOfBirth,PID,7,Date of Birth
+Gender,PID,8,Patient Gender
+Address,PID,11,Patient Address
+PhoneNumber,PID,13,Phone Number
+SSN,PID,19,Social Security Number
+VisitDate,PV1,44,Admission Date
+Department,PV1,3,Assigned Patient Location
+PhysicianID,PV1,7,Attending Doctor
+Diagnosis,DG1,3,Diagnosis Code
